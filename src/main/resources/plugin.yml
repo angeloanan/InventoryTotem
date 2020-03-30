@@ -1,0 +1,7 @@
+name: InventoryTotem
+version: ${project.version}
+main: xyz.angeloanan.inventorytotem.InventoryTotem
+api-version: 1.13
+authors: [angeloanan]
+description: Activates the Totem of Undying in your inventory when you die even if you're net holding it
+website: angeloanan.xyz
